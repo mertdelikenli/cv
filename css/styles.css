@@ -118,7 +118,7 @@ a {
   padding: 40px;
   margin-top: 30px;
   color: #EAF6F6;
-  padding-bottom: 30px;
+  
 
 }
 
@@ -128,5 +128,5 @@ a {
 
 .contact-me {
   position: relative;
-  bot: 50px;
+  bottom: 50px;
 }
